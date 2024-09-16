@@ -1,0 +1,8 @@
+1. The primary actors are the shopper, minor, and adult. 
+2. The secondary actor is the employee. 
+3. Use cases are described with verbs.
+4. Nouns describe the actors.
+5. The shopper, minor, and adult are primary actors and not secondary actors because they initiate the interaction with the sytsem and are to the left of the diagram. 
+6. The employee is a secondary actor and not the primary actor because they react to the interactions with the system, they are also to the right of the diagram. 
+7. Verify ID extends scan items because not every recation will require ID verification. Extend indicates that a case may happen during another use case.
+8. Scan Items includes Check Cart for Items because it is a use case that happens during another use case. Scan Items checks for duplicates in your cart and updates the cart based on what is scanned. 
