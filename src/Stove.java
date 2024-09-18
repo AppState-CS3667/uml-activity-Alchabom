@@ -7,7 +7,7 @@ public class Stove
         return false;
     }
 
-    public setBurnerTemp(int burner, double temp)
+    public void setBurnerTemp(int burner, double temp)
     {
 
     }
